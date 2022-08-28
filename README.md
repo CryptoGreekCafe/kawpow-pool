@@ -1,7 +1,7 @@
 # NOMP KawPoW Algorithm Pool - CryptoGreek
 Highly Efficient mining pool for Coins based on KawPoW algo!
 
-This is opensource mining pool for kawpow coins, Please visit [Neoxa](https://www.cryptogreek.cafe) for more information
+This is opensource mining pool for kawpow coins, Please visit [CryptoGreekCafe](https://www.cryptogreek.cafe) for more information
 
 
 -------
