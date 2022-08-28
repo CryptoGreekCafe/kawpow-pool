@@ -82,7 +82,7 @@ Other helpfull commands.
     sudo apt install git -y
     cd ~
     git config --global http.https://gopkg.in.followRedirects true
-    git clone https://github.com/NeoxaChain/kawpow-pool
+    git clone https://github.com/CryptoGreekCafe/kawpow-pool
     cd kawpow-pool/
     ./install.sh
 
@@ -97,7 +97,7 @@ If your daemon is hosted locally, keep your settings to 127.0.0.1, if you choose
 ```javascript
 {
     
-    "poolname": "Neoxa Pool",
+    "poolname": "CryptoGreekCafe Pool",
     
     "devmode": false,
     "devmodePayMinimim": 0.25,
@@ -115,10 +115,10 @@ If your daemon is hosted locally, keep your settings to 127.0.0.1, if you choose
     
     "discordtwitterfacebook": "",
     
-    "pagetitle": "Neoxa Coin Pool - 0% Fees Promo",
-    "pageauthor": "Neoxa project",
-    "pagedesc": "A reliable, 0% fee, easy to use mining pool for cryptocurrency! No matter your experience with mining cryptocurrency, we make it easy! Get started mining today!",
-    "pagekeywds": "GPU,CPU,Hash,Hashrate,Cryptocurrency,Crypto,Mining,Pool,Bitcoin,Neoxa,Wavi,Wavicoin,Dixicoin,Dixi,QBic,QBicCoin,Easy,Simple,How,To",
+    "pagetitle": "CryptoGreekCafe",
+    "pageauthor": "CryptoGreek",
+    "pagedesc": "A reliable, easy to use mining pool for cryptocurrency! No matter your experience with mining cryptocurrency, we make it easy! Get started mining today!",
+    "pagekeywds": "GPU,CPU,Hash,Hashrate,Cryptocurrency,Crypto,Mining,Pool,Bitcoin,Neoxa,RVN,FIRO,FLUX,Dixi,QBic,QBicCoin,Easy,Simple,How,To",
 
     "btcdonations": "",
     "ltcdonations": "",
@@ -161,7 +161,7 @@ If your daemon is hosted locally, keep your settings to 127.0.0.1, if you choose
         "enabled": true,
         "sslenabled": false,
         "sslforced": false,
-        "host": "0.0.0.0",
+        "host": "127.0.0.1",
         "port": 8080,
         "sslport": 443,
         "sslkey": "~/nomp-kawpow-pool/certs/privkey.pem",
