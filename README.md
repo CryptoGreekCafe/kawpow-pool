@@ -1,7 +1,7 @@
-# NOMP KawPoW Algorithm Pool -Neoxa
+# NOMP KawPoW Algorithm Pool - CryptoGreek
 Highly Efficient mining pool for Coins based on KawPoW algo!
 
-This is opensource mining pool for Neoxa, Please visit [Neoxa](https://www.neoxa.net) for more information
+This is opensource mining pool for kawpow coins, Please visit [Neoxa](https://www.cryptogreek.cafe) for more information
 
 
 -------
@@ -22,7 +22,7 @@ This is opensource mining pool for Neoxa, Please visit [Neoxa](https://www.neoxa
 ### Node Open Mining Portal consists of 3 main modules:
 | Project | Link |
 | ------------- | ------------- |
-| [KawPoWNOMP](https://github.com/NeoxaChain/kawpow-pool) | https://github.com/NeoxaChain/kawpow-pool |
+| [KawPoWNOMP](https://github.com/CryptoGreekCafe/kawpow-pool) | https://github.com/CryptoGreekCafe/kawpow-pool |
 | [Stratum Pool](https://github.com/tweetyf/kawpow-stratum-pool.git) | https://github.com/tweetyf/kawpow-stratum-pool.git |
 | [Node Multihashing](https://github.com/zone117x/node-multi-hashing.git) | https://github.com/zone117x/node-multi-hashing.git |
 
